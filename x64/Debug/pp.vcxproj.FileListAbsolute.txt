@@ -1,0 +1,5 @@
+D:\pp\x64\Debug\pp.vcxproj.AssemblyReference.cache
+D:\pp\x64\Debug\pp.vcxproj.SuggestedBindingRedirects.cache
+D:\pp\x64\Debug\pp.MyForm.resources
+D:\pp\x64\Debug\pp.vcxproj.GenerateResource.cache
+D:\pp\x64\Debug\pp.exe
